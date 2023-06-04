@@ -41,7 +41,7 @@ We have uploaded all the necessary [weights](https://huggingface.co/wmpscc/Style
 ```shell
 mkdir checkpoints
 cd checkpoints
-git clone https://huggingface.co/wmpscc/StyleGene_CKPT
+git clone https://huggingface.co/wmpscc/StyleGene
 ```
 Put the pre-trained models under `checkpoints/` as follows:
 ```text

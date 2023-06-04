@@ -1,5 +1,4 @@
 import gradio as gr
-
 from models.stylegene.api import synthesize_descendant
 
 description = """<p style="text-align: center; font-weight: bold;">
