@@ -1,7 +1,7 @@
 # StyleGene (CVPR2023 Highlight)
 This repository contains the implementation of the following paper:
 > **StyleGene: Crossover and Mutation of Region-level Facial Genes for Kinship Face Synthesis** <br>
-> [Hao Li](https://github.com/wmpscc) , [Xianxu Hou](https://scholar.google.com/citations?user=oK8Q-HwAAAAJ) , [Zepeng Huang](https://github.com/josephzpng), [Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ)<br>
+> [Hao Li](https://github.com/wmpscc) , [Xianxu Hou](https://github.com/houxianxu) , [Zepeng Huang](https://github.com/josephzpng), [Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ)<br>
 > From [CVI@SZU](https://github.com/CVI-SZU), Shenzhen University <br>
 > IEEE/CVF International Conference on Computer Vision (CVPR), 2023 <br>
 > [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_StyleGene_Crossover_and_Mutation_of_Region-Level_Facial_Genes_for_Kinship_CVPR_2023_paper.html)] | [[Project Page](https://wmpscc.github.io/stylegene/)] | [[Video](https://youtu.be/TDqGaL79_pg)] | [[Slide](https://drive.google.com/file/d/1CrhpHv8t0EDD4X4UwrYMBNYVAyyzUBF1/view)]
