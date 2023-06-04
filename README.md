@@ -85,3 +85,4 @@ Part of the code comes from other repo, please abide by the original open source
 - [StyleGAN 2 in PyTorch](https://github.com/rosinality/stylegan2-pytorch)
 - [StyleGAN2 — Official TensorFlow Implementation](https://github.com/NVlabs/stylegan2)
 - [Designing an Encoder for StyleGAN Image Manipulation](https://github.com/omertov/encoder4editing)
+- [FairFace: Face Attribute Dataset for Balanced Race, Gender, and Age](https://github.com/dchen236/FairFace)
