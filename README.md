@@ -55,16 +55,13 @@ StyleGene
 
 ### Generation
 Start the interactive interface and start playing.
-```text
+```shell
 cd StyleGene
 python app.py
 ```
 The default URL is  [http://127.0.0.1:7860/](http://127.0.0.1:7860/). If you are running on the server, please pay attention to open port `7860`.
 
 ![demo](img/demo.png)
-
-## Disclaimer
-This method is intended for academic research purposes only and is strictly prohibited for commercial use. Users are required to comply with all local laws and regulations when using this method.
 
 ## Citation
 If you are using our code, please consider citing our paper.
@@ -77,6 +74,9 @@ If you are using our code, please consider citing our paper.
   year={2023}
 }
 ```
+
+## Disclaimer
+This method is intended for academic research purposes only and is strictly prohibited for commercial use. Users are required to comply with all local laws and regulations when using this method.
 
 ## Acknowledgement
 Part of the code comes from other repo, please abide by the original open source license for the relevant code.
